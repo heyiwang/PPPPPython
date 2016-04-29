@@ -1,0 +1,2 @@
+str = raw_input('Enter sth here, converts to uppercase\n')
+print str.upper()
